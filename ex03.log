@@ -1,0 +1,41 @@
+--- Primeira consulta --------
+Data: 07/06/2023
+Hora: 11:30:00
+M??dico: Wellington Tuler
+Paciente: Ronald Pereira
+
+AGENDANDO CONSULTA
+Insira o ano: 2023
+Insira o m?ªs: 6
+Insira o dia: 08
+Insira um valor para horas: 02
+Insira um valor para minutos: 30
+Insira um valor para segundos: 0
+Por favor, insira o nome do paciente: Isabela Luisa
+Por favor, insira o nome do M??dico: Wellington Tuler
+--- Segunda consulta --------
+Data: 08/06/2023
+Hora: 02:30:00
+M??dico: Wellington Tuler
+Paciente: Isabela Luisa
+
+Insira o ano: 2023
+Insira o m?ªs: 7
+Insira o dia: 6
+Insira um valor para horas: 10
+Insira um valor para minutos: 11
+Insira um valor para segundos: 25
+Por favor, insira o nome do M??dico: Wellington Tuler
+Por favor, insira o nome do paciente: Alison Vieira
+--- Primeira consulta --------
+Data: 06/07/2023
+Hora: 10:11:25
+M??dico: Wellington Tuler
+Paciente: Alison Vieira
+
+Quantidade de agendas: 2
+
+
+// CONSIDERAÇÕES FINAIS
+
+Técnicamente as informações estão todas corretas. Só não coloquei o objeto para colocar os caracteres em português porquê eu já passei raiva com NPE - Ronald Pereira
